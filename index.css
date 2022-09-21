@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Impact", monospace;
+	font-size: 20px;
+}
+
+.gear {
+	background-color: #9b2226;
+}
+
+.grey {
+	background-color: #343a40;
+}
+
+.blue {
+	color: skyblue;
+}
+
+.pixie {
+	height: 2700px;
+}
+
+a
+{
+    text-decoration: none;
+    color: transparent;
+}
+
+a:hover
+{
+    color: #9b2226;
+}
